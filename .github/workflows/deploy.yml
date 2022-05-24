@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - main
+      - henrich
   pull_request:
     branches:
       - master
